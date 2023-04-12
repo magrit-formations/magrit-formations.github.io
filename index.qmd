@@ -1,13 +1,29 @@
-# Cartographie thématique avec Magrit
+---
+title: "Cartographie thématique avec Magrit"
+author:
+  - name: "Nicolas Lambert, Timothée Giraud, Matthieu Viry, Ronan Ysebaert"
+    affiliations:
+      - id: 1
+        name: UAR RIATE (CNRS, Université Paris Cité)
+        url: https://riate.cnrs.fr  
+date: last-modified
+lang: fr-FR
+date-format: "[Dernière modification :] MMMM YYYY"
+format: 
+  html:
+    embed-resources: true
+    title-block-banner: "#13389c"
+    abstract: "Supports de formation combinant une présentation des aspects théoriques relatifs à la cartographie thématique et une mise en pratique avec le logiciel libre en ligne [Magrit](https://magrit.cnrs.fr)."
+    include-before-body: "mlhmlkh"
+---
 
-Supports de formation combinant une présentation des aspects théoriques relatifs à la cartographie thématique et une mise en pratique avec le logiciel libre en ligne [Magrit](https://magrit.cnrs.fr). 
 
 ![](https://raw.githubusercontent.com/magrit-formations/.github/main/profile/img.png)    
 
 ### Public 
 Débutant, sans connaissances particulières en cartographie thématique.
 
-### Supports
+## Supports
 
 - Présentation du [RIATE](https://riate.cnrs.fr)
 - [Histoire de la cartographie thématique](https://magrit-formations.github.io/histoire_carto)
@@ -21,7 +37,7 @@ Débutant, sans connaissances particulières en cartographie thématique.
 - [Quel outil pour quel usage?](https://magrit-formations.github.io/outils_carto/)
 
 
-### Excercices
+## Excercices
 
 - [Présentation du logiciel Magrit](https://magrit-formations.github.io/magrit_exercices/#/1)
 - [Exercice 1](https://magrit-formations.github.io/magrit_exercices/#/4) : UEFA Champion's League : Collecter et importer des données dans Magrit, réaliser une carte en figurés proportionnels et mettre en page une carte.
