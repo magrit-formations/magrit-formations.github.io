@@ -14,7 +14,6 @@ format:
     embed-resources: true
     title-block-banner: "#13389c"
     abstract: "Supports de formation combinant une présentation des aspects théoriques relatifs à la cartographie thématique et une mise en pratique avec le logiciel libre en ligne [Magrit](https://magrit.cnrs.fr)."
-    include-before-body: "mlhmlkh"
 ---
 
 
@@ -25,7 +24,6 @@ Débutant, sans connaissances particulières en cartographie thématique.
 
 ## Supports
 
-- Présentation du [RIATE](https://riate.cnrs.fr)
 - [Histoire de la cartographie thématique](https://magrit-formations.github.io/histoire_carto)
 - [Les sources de l'information géographique](https://magrit-formations.github.io/infogeo_sources)
 - [Le fond de carte](https://magrit-formations.github.io/fond_de_carte)
