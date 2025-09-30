@@ -41,8 +41,8 @@ Débutant, sans connaissances particulières en cartographie thématique.
 - [Exercice 1](https://magrit-formations.github.io/magrit_exercices/#/4) : UEFA Champion's League : Collecter et importer des données dans Magrit, réaliser une carte en figurés proportionnels et mettre en page une carte.
 - [Exercice 2](https://magrit-formations.github.io/magrit_exercices/#/5) : Évolution de la population dans les départements français : Importer des données INSEE, réaliser une carte choroplèthe, choisir une méthode de discrétisation et une palette de couleurs adaptée. 
 - [Exercice 3](https://magrit-formations.github.io/magrit_exercices/#/6) : Analyser la structure de l'emploi dans la région Hauts-de-France en 2014 : Combiner sur la même carte plusieurs modes de représentation, mettre en oeubre des représentations cartographiques avancées (cartogrammes, grilles régulières, discontinuités)...
-- [Astuces pour une utilisation avancée de Magrit](https://magrit-formations.github.io/magrit_exercices/#/7) : alignement des éléments, ajout d'un carton de localisation, etc.
-- [Installer Magrit sur sa machine en utilisant Docker](https://magrit-formations.github.io/magrit_exercices/#/12).
+- [Astuces pour une utilisation avancée de Magrit](https://magrit-formations.github.io/magrit_exercices/#/7) : alignement des éléments, ajout d'une ombre, etc.
+- [Déployer Magrit sur son réseau locale en utilisant Docker](https://magrit-formations.github.io/magrit_exercices/#/12).
 
 
 ## Réutiliser ces supports
